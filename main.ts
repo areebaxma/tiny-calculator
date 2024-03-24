@@ -24,4 +24,4 @@ if (answer.operator === "Addition") {
   console.log(answer.firstNumber / answer.SecondNumber);
 } else {
   console.log("Please Enter valid operator");
-}console.log("areeba")
+}
